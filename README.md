@@ -1,4 +1,3 @@
-# Case_Varejo
 The dataset used consists of information from a retail store that aims to create metrics to monitor its performance. 
 Two datasets were utilized: sales data and customer data.
 
